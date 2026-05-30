@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfave",
+        "uuid": 13332324,
+        "checksum": "cc4okg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
